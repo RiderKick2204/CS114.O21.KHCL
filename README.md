@@ -17,8 +17,8 @@
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** MÁY HỌC - MACHINE LEARNING
 * **Mã môn học:** CS114
-* **Mã lớp:** CS114.L22.KHCL
-* **Năm học:** HK2 (2020 - 2021)
+* **Mã lớp:** CS114.O21.KHCL
+* **Năm học:** HK2 (2023 - 2024)
 * **Giảng viên**: Phạm Nguyễn Trường An và Lê Đình Duy
 
 ## ĐỒ ÁN CUỐI KỲ
