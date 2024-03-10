@@ -10,9 +10,9 @@
 
 <!-- Main -->
 # Thành viên nhóm:
-| STT    | MSSV          | Họ và Tên              | Chức Vụ    | Github                                                  | Email                   |
-| ------ |:-------------:| ----------------------:| ----------:|--------------------------------------------------------:|-------------------------:
-| 1      | 20520375      | Phạm Phước An          |            |https://github.com/RiderKick2204                         |20520375@gm.uit.edu.vn   |
+| STT | Họ tên | MSSV | Email  | Github |
+|:----|:-------|:----:|:------:|:------:|
+| 1 | Phạm Phước An | 20520375 | 20520375@gm.uit.edu.vn | https://github.com/RiderKick2204/ |
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** MÁY HỌC - MACHINE LEARNING
