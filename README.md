@@ -13,6 +13,7 @@
 | STT | Họ tên | MSSV | Email  | Github |
 |:----|:-------|:----:|:------:|:------:|
 | 1 | Phạm Phước An | 20520375 | 20520375@gm.uit.edu.vn | https://github.com/RiderKick2204/ |
+| 2 | Nguyễn Minh Quang | 20520918 | 20520918@gm.uit.edu.vn | |
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** MÁY HỌC - MACHINE LEARNING
